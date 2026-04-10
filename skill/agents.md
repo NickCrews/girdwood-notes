@@ -58,21 +58,25 @@ When answering a question:
 Periodically audit the wiki for health. Run through these checks:
 
 #### Link integrity
+
 - Every `[[wikilink]]` must resolve to an existing `.md` file in `content/`.
 - Flag broken links (target page doesn't exist).
 - Flag orphan pages (no other page links to them, and they're not in `index.md`).
 
 #### Content consistency
+
 - No two pages should cover the same entity. Flag duplicates.
 - Cross-check facts that appear on multiple pages (e.g. population figures, dates). Flag contradictions.
 - Tags in frontmatter should use a consistent vocabulary. Flag novel tags that aren't used elsewhere.
 
 #### Completeness
+
 - Every entity mentioned in running text but not linked should be a candidate for a new page or a `[[wikilink]]`.
 - Pages with only an overview and no details/sources are stubs — flag them.
 - `content/index.md` should list every page. Flag any page missing from the index.
 
 #### Freshness
+
 - Flag pages whose sources are more than 2 years old with no recent update.
 - Flag claims with no source at all.
 
