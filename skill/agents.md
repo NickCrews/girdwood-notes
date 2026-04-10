@@ -27,12 +27,13 @@ skill/
   ---
   ```
 - Use `[[wikilinks]]` for internal links (Quartz uses Obsidian-flavored markdown).
-- Keep pages factual and sourced. Inline citations as markdown links: `[Source Name](url)`.
+- **Audience**: People already familiar with Girdwood who care about policy. Don't explain things locals already know (e.g. how much snow Alyeska gets, that Girdwood is a mountain town). Focus on policy-relevant substance.
+- **Inline citations**: Every factual claim that someone might want to verify or explore further must have an inline citation as a markdown link, e.g. `Girdwood has a population of roughly 2,300 ([Census 2020](url))`. Do NOT use a separate "Sources" section — weave citations into the text where the claim appears.
+- **No unsupported claims**: If you don't have a source for a specific claim, don't state it as fact. Hedge appropriately or omit it. For example, don't assert that seasonal population "swells significantly" unless you have data showing that.
 - Sections per page (adapt as needed):
   - **Overview** — 1-2 paragraph summary
   - **Details** — the substance
   - **See also** — related `[[wikilinks]]`
-  - **Sources** — list of reference URLs
 
 ## Operations
 

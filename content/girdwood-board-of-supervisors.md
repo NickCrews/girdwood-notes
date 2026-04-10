@@ -6,11 +6,11 @@ tags:
 
 ## Overview
 
-The Girdwood Board of Supervisors (GBOS) is the local elected advisory board for [[girdwood]]. GBOS serves as the primary voice of the community within the [[municipality-of-anchorage]] government structure.
+The Girdwood Board of Supervisors (GBOS) is the local elected advisory board for [[girdwood]]. It serves as the primary voice of the community within the [[municipality-of-anchorage]] government structure.
 
 ## Structure
 
-GBOS consists of seven members elected by Girdwood residents. Board members serve staggered three-year terms. The board elects a chair and vice-chair from among its members.
+GBOS consists of seven members elected by Girdwood residents to staggered three-year terms. The board elects a chair and vice-chair from among its members ([Municipality of Anchorage — GBOS](https://www.muni.org/Departments/Assembly/Pages/GirdwoodBoardofSupervisors.aspx)).
 
 ## Role and authority
 
@@ -21,8 +21,6 @@ GBOS is an advisory body — it makes recommendations to the [[anchorage-assembl
 - Providing community input on municipal decisions affecting Girdwood
 - Overseeing local services funded through the GVSA
 
-GBOS meetings are open to the public and held regularly in Girdwood.
-
 ## Key issues
 
 GBOS has been actively involved in debates over [[short-term-rentals]] regulation, [[heritage-land-bank]] land disposals, workforce housing, and policing services (see [[whittier-police-department]]).
@@ -32,7 +30,3 @@ GBOS has been actively involved in debates over [[short-term-rentals]] regulatio
 - [[girdwood-service-area]]
 - [[municipality-of-anchorage]]
 - [[anchorage-assembly]]
-
-## Sources
-
-- [GBOS — Municipality of Anchorage](https://www.muni.org/Departments/Assembly/Pages/GirdwoodBoardofSupervisors.aspx)

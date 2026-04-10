@@ -14,13 +14,7 @@ The GVSA is funded through a property tax mill levy assessed on properties withi
 
 ## Services
 
-The GVSA funds a range of local services including:
-
-- Parks and recreation facilities
-- Trail maintenance
-- Fire and emergency services
-- Contracted police services through the [[whittier-police-department]]
-- Community facilities and programs
+The GVSA funds local services including parks and recreation, trail maintenance, fire and emergency services, contracted police services through the [[whittier-police-department]], and community facilities.
 
 ## Relationship to the Municipality
 
@@ -31,7 +25,3 @@ As a service area within the [[municipality-of-anchorage]], the GVSA operates un
 - [[girdwood-board-of-supervisors]]
 - [[municipality-of-anchorage]]
 - [[bed-tax]]
-
-## Sources
-
-- [Municipality of Anchorage — Service Areas](https://www.muni.org/Departments/Assembly/Pages/ServiceAreas.aspx)
