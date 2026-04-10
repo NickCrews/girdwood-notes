@@ -7,22 +7,15 @@ tags:
 
 ## Overview
 
-The Heritage Land Bank (HLB) is the real property management agency of the [[municipality-of-anchorage]]. It manages municipally-owned land, including approximately 5,000 acres in the Girdwood Valley, making it the largest single landowner in [[girdwood]].
+The Heritage Land Bank (HLB) is the real property management agency of the [[municipality-of-anchorage]]. It manages municipally-owned land, including significant holdings in the Girdwood Valley, making it the largest single landowner in [[girdwood]].
 
 ## Role
 
-HLB is responsible for:
-
-- Managing and disposing of municipally-owned land
-- Evaluating land for development potential
-- Facilitating land sales, leases, and transfers
-- Supporting community planning objectives through strategic land management
+HLB manages and disposes of municipally-owned land, evaluates parcels for development potential, and facilitates land sales, leases, and transfers in support of community planning objectives ([Municipality of Anchorage — HLB](https://www.muni.org/Departments/prior-prior-prior-hlb/Pages/default.aspx)).
 
 ## Girdwood holdings
 
-HLB's extensive land holdings in the Girdwood Valley have made it central to debates about housing, development, and conservation. Key parcels include areas proposed for workforce housing, commercial development, and open space preservation.
-
-The Holtan Hills development is one of the most significant HLB projects in Girdwood — a proposed residential subdivision on HLB land intended to address the community's housing shortage.
+HLB's extensive land holdings in the Girdwood Valley make it central to debates about housing, development, and conservation. The Holtan Hills development is one of the most significant HLB projects — a proposed residential subdivision on HLB land intended to address the community's housing shortage.
 
 ## Governance
 
@@ -34,7 +27,3 @@ HLB is overseen by the Heritage Land Bank Advisory Commission, which makes recom
 - [[girdwood-board-of-supervisors]]
 - [[anchorage-assembly]]
 - [[deed-restrictions]]
-
-## Sources
-
-- [Heritage Land Bank — Municipality of Anchorage](https://www.muni.org/Departments/PRIOR-PRIOR-PRIOR-hlb/Pages/default.aspx)

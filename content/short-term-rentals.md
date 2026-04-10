@@ -3,26 +3,16 @@ title: Short-Term Rentals (STRs)
 tags:
   - housing
   - economy
+  - policy
 ---
 
 ## Overview
 
-Short-term rentals (STRs) are a major factor in [[girdwood]]'s housing market. Properties listed on platforms like Airbnb and VRBO have grown significantly, converting long-term housing into vacation rentals and contributing to the community's housing shortage.
-
-## Scale
-
-Girdwood has a disproportionately high number of STRs relative to its total housing stock. Estimates suggest a significant percentage of the community's housing units are used primarily as short-term vacation rentals rather than long-term residences.
+Short-term rentals (STRs) — properties listed on platforms like Airbnb and VRBO — are a major factor in [[girdwood]]'s housing market. Growth in STRs has converted long-term housing into vacation rentals, contributing to the community's housing shortage.
 
 ## Impact on housing
 
-STRs reduce the supply of housing available for year-round residents and seasonal workers. Property owners can often earn more from nightly vacation rentals than from long-term leases, creating a financial incentive to convert units away from residential use.
-
-This dynamic contributes to:
-
-- Reduced inventory in the [[rental-market]]
-- Higher rents for remaining long-term units
-- Difficulty for workers at [[alyeska-resort]] and other local businesses to find housing
-- Growth in [[dark-homes]] — properties not occupied by full-time residents
+STRs reduce the supply of housing available for year-round residents and workers. Property owners can often earn more from nightly vacation rentals than from long-term leases, creating a financial incentive to convert units away from residential use. This contributes to reduced inventory in the [[rental-market]], higher rents for remaining long-term units, and growth in [[dark-homes]].
 
 ## Regulation
 
@@ -38,7 +28,3 @@ STRs are subject to the [[bed-tax]], which generates revenue for local services.
 - [[rental-market]]
 - [[bed-tax]]
 - [[girdwood-economics-and-labor-market]]
-
-## Sources
-
-- [Municipality of Anchorage — Short-Term Rental Information](https://www.muni.org)

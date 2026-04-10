@@ -3,6 +3,7 @@ title: Deed Restrictions
 tags:
   - housing
   - land-use
+  - policy
 ---
 
 ## Overview
@@ -11,9 +12,7 @@ Deed restrictions are legal covenants attached to property deeds that limit how 
 
 ## Purpose in Girdwood
 
-Given Girdwood's housing crisis — characterized by [[dark-homes]], STR conversions, and a tight [[rental-market]] — deed restrictions are seen as one of the most effective tools for creating and preserving workforce housing.
-
-Common deed restriction provisions include:
+Given Girdwood's housing challenges — [[dark-homes]], STR conversions, and a tight [[rental-market]] — deed restrictions are seen as one of the most effective tools for creating and preserving workforce housing. Common provisions include:
 
 - **Primary residency requirements**: Owners must occupy the property as their primary residence
 - **Rental restrictions**: Limits on short-term rental use
@@ -26,7 +25,7 @@ Deed restrictions are most commonly applied to housing built on [[heritage-land-
 
 ## Debate
 
-Deed restrictions are debated within the community. Supporters argue they are essential for preserving housing for the people who live and work in Girdwood. Critics raise concerns about limiting property rights, enforcement challenges, and the long-term effects on property values.
+Supporters argue deed restrictions are essential for preserving housing for the people who live and work in Girdwood. Critics raise concerns about limiting property rights, enforcement challenges, and long-term effects on property values.
 
 ## See also
 
