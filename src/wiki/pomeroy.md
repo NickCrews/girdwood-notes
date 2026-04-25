@@ -9,7 +9,8 @@ tags:
 ## Overview
 
 TODO: are they privte or public.
-Pomeroy Lodging LP is a Canadian hospitality company based in Grande Prairie, Alberta. It owns and operates [[alyeska-resort]], including the Hotel Alyeska, making it the largest private landowner and employer in [[girdwood]].
+Pomeroy Lodging is a Canadian hospitality company that operates a portfolio of hotels across Alberta and British Columbia, and owns and operates [[alyeska-resort]] including the Hotel Alyeska in Girdwood, AK ([Pomeroy Lodging](../sources/pomeroy-lodging-home.md)). It is the largest private landowner and employer in [[girdwood]].
+TODO: confirm corporate HQ city and legal form (LP vs. Inc.) from a primary source.
 
 ## History with Alyeska and Girdwood
 

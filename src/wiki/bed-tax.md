@@ -7,7 +7,9 @@ tags:
   - policy
 ---
 
-The anchorage bed tax (also called a room tax or transient accommodation tax) is a 12% local tax levied on short-term lodging across the [[anchorage-municipality]]. TODO cite this.
+## Overview
+
+The anchorage bed tax (also called a room tax or transient accommodation tax) is a 12% local tax levied on short-term lodging across the [[municipality-of-anchorage]]. TODO cite this.
 
 ## Who it taxes
 

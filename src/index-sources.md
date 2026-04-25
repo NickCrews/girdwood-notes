@@ -17,7 +17,7 @@ This file is the agent-facing index of raw source material in `src/sources/`. Th
 
 ## Entities
 
-_(none yet)_
+- [Pomeroy Lodging — corporate homepage](./sources/pomeroy-lodging-home.md) — Lists the company's hotel portfolio across Alberta, BC, and Alyeska in Girdwood, AK. Cited from [[pomeroy]].
 
 ## Concepts & policy
 

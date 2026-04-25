@@ -7,23 +7,23 @@ oneliner: Machine-generated index of every wiki page; do not edit by hand. Run `
 
 Generated 2026-04-25 from `src/wiki/`. 20 pages.
 
-- **Alyeska Resort** — `src/wiki/alyeska-resort.md` — Largest ski resort in Alaska and Girdwood's primary economic engine; owned by Pomeroy Lodging. — tags: [economy, tourism] — words: 92 — edited: 2026-04-25
-- **Anchorage Assembly** — `src/wiki/anchorage-assembly.md` — 12-member legislative body of the Municipality of Anchorage; Girdwood is part of district 6. — tags: [governance] — words: 197 — edited: 2026-04-25
-- **Bed Tax** — `src/wiki/bed-tax.md` — 12% Anchorage room tax on short-term lodging including hotels and STRs. — tags: [economy, governance, policy] — words: 96 — edited: 2026-04-25
+- **Alyeska Resort** — `src/wiki/alyeska-resort.md` — Largest ski resort in Alaska and Girdwood's primary economic engine; owned by Pomeroy Lodging. — tags: [economy, tourism] — words: 96 — edited: 2026-04-25
+- **Anchorage Assembly** — `src/wiki/anchorage-assembly.md` — 12-member legislative body of the Municipality of Anchorage; Girdwood is part of district 6. — tags: [governance] — words: 207 — edited: 2026-04-25
+- **Bed Tax** — `src/wiki/bed-tax.md` — 12% Anchorage room tax on short-term lodging including hotels and STRs. — tags: [economy, governance, policy] — words: 98 — edited: 2026-04-25
 - **Dark Homes** — `src/wiki/dark-homes.md` — Housing units in Girdwood not used as primary residences (second homes, vacation properties). — tags: [housing] — words: 220 — edited: 2026-04-25
 - **Deed Restrictions** — `src/wiki/deed-restrictions.md` — Legal covenants on property deeds used to preserve workforce housing (residency requirements, price caps, rental limits). — tags: [housing, land-use, policy] — words: 175 — edited: 2026-04-25
 - **Girdwood Board of Supervisors (GBOS)** — `src/wiki/girdwood-board-of-supervisors.md` — Five-member elected advisory board representing Girdwood within the Municipality of Anchorage. — tags: [governance] — words: 178 — edited: 2026-04-25
 - **Girdwood Demographics** — `src/wiki/girdwood-demographics.md` — Population, housing occupancy, and workforce composition for Girdwood (2020 Census pop. 2,361). — tags: [housing, economy] — words: 140 — edited: 2026-04-25
 - **Girdwood Economics and Labor Market** — `src/wiki/girdwood-economics-and-labor-market.md` — Tourism-dominated economy centered on Alyeska Resort, constrained by lack of worker housing. — tags: [economy, housing] — words: 156 — edited: 2026-04-25
 - **Girdwood Valley Service Area (GVSA)** — `src/wiki/girdwood-service-area.md` — Special service area funding Girdwood's roads, fire, parks, and policing via local property tax. — tags: [governance] — words: 226 — edited: 2026-04-25
-- **Girdwood** — `src/wiki/girdwood.md` — Unincorporated community within the Municipality of Anchorage, ~40 miles south on Turnagain Arm; home of Alyeska Resort. — tags: [governance, land-use] — words: 191 — edited: 2026-04-25
+- **Girdwood** — `src/wiki/girdwood.md` — Unincorporated community within the Municipality of Anchorage, ~40 miles south on Turnagain Arm; home of Alyeska Resort. — tags: [governance, land-use] — words: 194 — edited: 2026-04-25
 - **Heritage Land Bank (HLB)** — `src/wiki/heritage-land-bank.md` — Anchorage's municipal real property agency and the largest landowner in Girdwood. — tags: [governance, land-use] — words: 185 — edited: 2026-04-25
 - **Homebuying Market** — `src/wiki/homebuying-market.md` — Tight inventory and competition between local residents, second-home buyers, and STR investors. — tags: [housing, economy] — words: 208 — edited: 2026-04-25
 - **Housing Policies** — `src/wiki/housing-policies.md` — Stub catalog of housing policies affecting Girdwood rentals and homebuyers. — tags: [housing, policy] — words: 21 — edited: 2026-04-25
 - **Girdwood Notes** — `src/wiki/index.md` — Human-facing landing page for the wiki; curated entry points, not a complete index. — tags: [] — words: 266 — edited: 2026-04-25
 - **Long Term Rentals** — `src/wiki/long-term-rentals.md` — Tight long-term rental market in Girdwood and a major constraint on the local economy. — tags: [housing, economy] — words: 107 — edited: 2026-04-25
-- **Municipality of Anchorage** — `src/wiki/municipality-of-anchorage.md` — Unified home-rule municipality (~291k residents) that absorbed Girdwood in 1975. — tags: [governance] — words: 151 — edited: 2026-04-25
-- **Pomeroy Lodging** — `src/wiki/pomeroy.md` — Canadian hospitality company that owns Alyeska Resort and is Girdwood's largest private employer. — tags: [economy, tourism] — words: 134 — edited: 2026-04-25
+- **Municipality of Anchorage** — `src/wiki/municipality-of-anchorage.md` — Unified home-rule municipality (~291k residents) that absorbed Girdwood in 1975. — tags: [governance] — words: 156 — edited: 2026-04-25
+- **Pomeroy Lodging** — `src/wiki/pomeroy.md` — Canadian hospitality company that owns Alyeska Resort and is Girdwood's largest private employer. — tags: [economy, tourism] — words: 159 — edited: 2026-04-25
 - **Property Managers** — `src/wiki/property-managers.md` — Operators who manage STRs and LTRs in Girdwood on behalf of property owners. — tags: [economy, housing] — words: 36 — edited: 2026-04-25
 - **Short-Term Rentals (STRs)** — `src/wiki/short-term-rentals.md` — Airbnb/VRBO listings competing with long-term housing supply in Girdwood. — tags: [housing, economy, policy] — words: 222 — edited: 2026-04-25
 - **Whittier Police Department** — `src/wiki/whittier-police-department.md` — Contracted police force for Girdwood since 2016, funded through the GVSA budget. — tags: [governance, infrastructure] — words: 168 — edited: 2026-04-25

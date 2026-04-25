@@ -14,11 +14,11 @@ The Municipality of Anchorage is a unified home rule municipality covering appro
 The Municipality operates under a mayor-assembly form of government:
 
 - **Mayor**: Chief executive, elected to a three-year term
-- **[[Anchorage Assembly]]**: 12-member legislative body
+- **[[anchorage-assembly]]**: 12-member legislative body
 
 ## Relationship to Girdwood
 
-[[Girdwood]] was absorbed into the Municipality in 1975 when the Greater Anchorage Area Borough unified with the City of Anchorage and smaller cities, and Girdwood lost its independent city status.
+[[Girdwood]] was absorbed into the Municipality in 1975 when the Greater Anchorage Area Borough unified with the City of Anchorage and smaller cities, and Girdwood lost its independent city status ([Wikipedia — Municipality of Anchorage](https://en.wikipedia.org/wiki/Anchorage,_Alaska#Government)).
 
 Today, Girdwood is governed locally through the [[girdwood-board-of-supervisors]] and the [[girdwood-service-area]], but all ordinances and budgets require approval from the [[anchorage-assembly]].
 
