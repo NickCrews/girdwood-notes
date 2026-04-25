@@ -1,5 +1,6 @@
 ---
 title: Deed Restrictions
+oneliner: Legal covenants on property deeds used to preserve workforce housing (residency requirements, price caps, rental limits).
 tags:
   - housing
   - land-use
@@ -8,7 +9,7 @@ tags:
 
 ## Overview
 
-Deed restrictions are legal covenants attached to property deeds that limit how a property may be used. 
+Deed restrictions are legal covenants attached to property deeds that limit how a property may be used.
 
 Supporters argue deed restrictions are essential for preserving housing for the people who live and work in Girdwood. Critics raise concerns about limiting property rights, enforcement challenges, and long-term effects on property values.
 

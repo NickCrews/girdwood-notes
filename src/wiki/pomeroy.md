@@ -1,5 +1,6 @@
 ---
 title: Pomeroy Lodging
+oneliner: Canadian hospitality company that owns Alyeska Resort and is Girdwood's largest private employer.
 tags:
   - economy
   - tourism
@@ -13,6 +14,7 @@ Pomeroy Lodging LP is a Canadian hospitality company based in Grande Prairie, Al
 ## History with Alyeska and Girdwood
 
 TODO
+
 - bio of when bought, for how much
 - what initiatives theyve done
 - what they are known for (real estate dev vs loding management vs resort management)

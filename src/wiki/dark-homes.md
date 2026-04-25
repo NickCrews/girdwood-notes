@@ -1,5 +1,6 @@
 ---
 title: Dark Homes
+oneliner: Housing units in Girdwood not used as primary residences (second homes, vacation properties).
 tags:
   - housing
 ---

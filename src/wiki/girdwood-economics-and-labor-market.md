@@ -1,5 +1,6 @@
 ---
 title: Girdwood Economics and Labor Market
+oneliner: Tourism-dominated economy centered on Alyeska Resort, constrained by lack of worker housing.
 tags:
   - economy
   - housing
@@ -11,10 +12,11 @@ tags:
 
 ## Major employers
 
-### [[alyeska-resort]]** / **[[Pomeroy]]**
+### [[alyeska-resort]]** / **[[Pomeroy]]\*\*
 
 The largest employer, operating the ski area, hotel, and associated facilities
-TODO: 
+TODO:
+
 - how many people?
 - what fraction live in girdwood?
 - what fraction are visa holders/nonresidents?
@@ -22,7 +24,6 @@ TODO:
 ### Local businesses
 
 Restaurants, retail, guiding and recreation companies, [property management](property-managers) firms.
-
 
 ## Housing-economy connection
 

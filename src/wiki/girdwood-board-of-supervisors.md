@@ -1,5 +1,6 @@
 ---
 title: Girdwood Board of Supervisors (GBOS)
+oneliner: Five-member elected advisory board representing Girdwood within the Municipality of Anchorage.
 tags:
   - governance
 ---
@@ -12,7 +13,8 @@ The Girdwood Board of Supervisors (GBOS) is the local elected advisory board for
 
 GBOS consists of 5 members elected by Girdwood residents to staggered three-year terms ([Municipality of Anchorage — GBOS](https://www.muni.org/Departments/Assembly/Pages/GirdwoodBoardofSupervisors.aspx)).
 
-TODO: 
+TODO:
+
 - meeting schedule
 - where to get involved
 
@@ -29,9 +31,10 @@ GBOS is an advisory body — it makes recommendations to the [[anchorage-assembl
 
 ### LUC - Land Use Committee
 
-TODO relationship as the community council of girdwood. 
+TODO relationship as the community council of girdwood.
 
 ### HCEC - Housing and Economic...
+
 ### Trails Committee
 
 ## Key issues
