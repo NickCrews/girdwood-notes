@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-"Dark homes" is a term used in [[girdwood]] to describe housing units that are not occupied as primary residences — including second homes, vacation properties, and units held for occasional use. The term refers to homes that sit dark and empty for much of the year.
+"Dark homes" is a term used in [[girdwood]] to describe housing units that are not occupied as primary residences — including second homes, vacation properties, and units held for occasional use.
 
 ## Impact
 
@@ -16,9 +16,19 @@ Dark homes have several effects on the community:
 - **Community cohesion**: A large stock of unoccupied homes limits participation in local governance and civic life
 - **Service costs**: The [[girdwood-service-area]] provides services (fire, road maintenance, etc.) to all properties regardless of occupancy, meaning year-round residents effectively subsidize services for part-time homeowners
 
-## Relationship to STRs
+## Causes
 
-Some dark homes are also used as [[short-term-rentals]], generating income for owners and [[bed-tax]] revenue but not providing stable housing. Others sit truly vacant. Both categories reduce the pool of housing available to the workforce.
+### STRs
+
+TODO STRs act as a subsidy for second homeowners.
+Some dark homes are used as [[short-term-rentals]], generating income for owners and [[bed-tax]] revenue but not providing stable housing for locals.
+
+### Temp Anchorage moves during kids going to school
+
+some families mover to anchroage for a few years during the period when their kids go to high school,
+to avoid the daily commute.
+
+### Local owners vs remote owners
 
 ## Policy responses
 
@@ -28,5 +38,5 @@ Possible policy tools include [[deed-restrictions]] on new development, STR regu
 
 - [[girdwood-demographics]]
 - [[short-term-rentals]]
-- [[rental-market]]
+- [[long-term-rentals]]
 - [[deed-restrictions]]

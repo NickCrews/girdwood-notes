@@ -7,11 +7,21 @@ tags:
 
 ## Overview
 
-The Whittier Police Department (WPD) provides contracted police services to [[girdwood]] through an agreement with the [[municipality-of-anchorage]], in place since 2016 after Alaska State Troopers withdrew coverage due to state budget cuts.
+The Whittier Police Department (WPD) provides contracted police services to [[girdwood]].
+They have done this since 2016 after Alaska State Troopers withdrew coverage due to state budget cuts. TODO: cite
 
 ## Funding
 
 Policing services are funded through the [[girdwood-service-area]] budget, overseen by the [[girdwood-board-of-supervisors]] and approved by the [[anchorage-assembly]].
+
+TODO:
+- actual historical budget
+- what fraction of the GVSA budget this is
+- what mill rate this represents to taxpayers
+- how much the median taxpayer pays
+
+TODO research if this was one of the primary reasons that GVSA even exists, because
+girdwood needs a differetn pool pf money since Anch wouldn't provide policing?
 
 ## Challenges
 
