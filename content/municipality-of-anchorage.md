@@ -13,9 +13,7 @@ The Municipality of Anchorage is a unified home rule municipality covering appro
 The Municipality operates under a mayor-assembly form of government:
 
 - **Mayor**: Chief executive, elected to a three-year term
-- **[[Anchorage Assembly]]**: 11-member legislative body
-
-Additional local services are provided through service areas like the [[girdwood-service-area]].
+- **[[Anchorage Assembly]]**: 12-member legislative body
 
 ## Relationship to Girdwood
 

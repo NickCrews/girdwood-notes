@@ -13,13 +13,7 @@ Alyeska Resort is the primary economic engine of [[girdwood]], owned and operate
 
 Alyeska is the largest employer in Girdwood and the primary driver of the local tourism economy. See [[girdwood-economics-and-labor-market]] for more detail.
 
-The resort's seasonal employment patterns contribute to Girdwood's housing challenges — workers may struggle to find affordable housing, contributing to pressure on the [[rental-market]].
+Workers struggle to find affordable housing, contributing to pressure on the [[long-term-rentals]].
 
-The resort also generates significant [[bed-tax]] revenue through its hotel operations.
-
-## See also
-
-- [[girdwood]]
-- [[pomeroy]]
-- [[girdwood-economics-and-labor-market]]
-- [[bed-tax]]
+The resort also generates [[bed-tax]] revenue through its hotel operations.
+TODO: how much in absolute terms? in proportion to the rest of girdwood

@@ -11,22 +11,27 @@ tags:
 
 ## Major employers
 
-- **[[Alyeska Resort]]** / **[[Pomeroy]]**: The largest employer, operating the ski area, hotel, and associated facilities
-- **Local businesses**: Restaurants, retail, guiding and recreation companies, property management firms
-- **[[Girdwood Service Area]]**: Public-sector employment
+### [[alyeska-resort]]** / **[[Pomeroy]]**
+
+The largest employer, operating the ski area, hotel, and associated facilities
+TODO: 
+- how many people?
+- what fraction live in girdwood?
+- what fraction are visa holders/nonresidents?
+
+### Local businesses
+
+Restaurants, retail, guiding and recreation companies, [property management](property-managers) firms.
+
 
 ## Housing-economy connection
 
-The lack of affordable housing is widely cited as the most significant constraint on Girdwood's economy. Businesses report difficulty recruiting and retaining workers who cannot find places to live in the community. This has driven interest in [[deed-restrictions]] and other tools to create workforce housing.
-
-## Bed tax revenue
-
-Tourism generates [[bed-tax]] revenue that funds local services and projects. This creates a tension between encouraging tourism (which can drive STR growth) and preserving housing for residents.
+The lack of affordable housing is widely cited as the most significant constraint on Girdwood's economy. Businesses report difficulty recruiting and retaining workers who cannot find places to live in the community.
+Many businesses rent houses for their staff if they want staff. I know Jack Sprat and coasT pizza does this, TODO find links for this.
 
 ## See also
 
 - [[alyeska-resort]]
 - [[girdwood-demographics]]
 - [[short-term-rentals]]
-- [[rental-market]]
-- [[bed-tax]]
+- [[long-term-rentals]]

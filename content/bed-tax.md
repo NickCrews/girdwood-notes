@@ -6,19 +6,24 @@ tags:
   - policy
 ---
 
-## Overview
+The anchorage bed tax (also called a room tax or transient accommodation tax) is a 12% local tax levied on short-term lodging across the [[anchorage-municipality]]. TODO cite this.
 
-The bed tax (also called a room tax or transient accommodation tax) is a tax levied on short-term lodging in [[girdwood]]. It applies to hotel rooms, [[short-term-rentals]], and other accommodations rented for periods typically less than 30 days.
+## Who it taxes
 
-## Significance
+ It applies to hotel rooms, [[short-term-rentals]], and other accommodations rented for periods typically less than 30 days.
 
-The bed tax is one of the primary revenue sources available to Girdwood for funding local improvements. Because Girdwood is part of the [[municipality-of-anchorage]] rather than an independent city, the bed tax is one of the few mechanisms for generating revenue specifically for the community. Revenue supports local services and projects managed through the [[girdwood-service-area]].
+ TODO describe how much monye anchroage raises vs girdwood.
 
-## Tension with housing policy
+## What it funds
 
-The bed tax creates a policy tension: [[short-term-rentals]] generate tax revenue that the community depends on, but they also remove housing from the long-term [[rental-market]]. Increasing STR activity generates more bed tax revenue while potentially worsening the housing crisis.
+- Visit Anchorage
+- Anchorage General Fund
+- convention center
+- something else?
 
-This dynamic is a frequent topic at [[girdwood-board-of-supervisors]] meetings and in debates before the [[anchorage-assembly]].
+TODO flesh this out more, give amounts
+
+## Debate and alternatives
 
 ## See also
 

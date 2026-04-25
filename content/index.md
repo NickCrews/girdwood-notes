@@ -27,5 +27,5 @@ A wiki about issues facing Girdwood, Alaska — housing, land use, governance, e
 - [[bed-tax]] — Room tax on short-term lodging
 - [[deed-restrictions]] — Deed restrictions for workforce housing
 - [[dark-homes]] — Vacant and second homes in Girdwood
-- [[rental-market]] — Long-term rental availability and prices
+- [[long-term-rentals]] — Long-term rental availability and prices
 - [[homebuying-market]] — Home prices and affordability
