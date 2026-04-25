@@ -1,5 +1,6 @@
 ---
 title: Girdwood Demographics
+oneliner: Population, housing occupancy, and workforce composition for Girdwood (2020 Census pop. 2,361).
 tags:
   - housing
   - economy

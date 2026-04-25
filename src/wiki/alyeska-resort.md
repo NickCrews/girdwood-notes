@@ -1,5 +1,6 @@
 ---
 title: Alyeska Resort
+oneliner: Largest ski resort in Alaska and Girdwood's primary economic engine; owned by Pomeroy Lodging.
 tags:
   - economy
   - tourism

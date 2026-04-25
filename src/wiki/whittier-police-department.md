@@ -1,5 +1,6 @@
 ---
 title: Whittier Police Department
+oneliner: Contracted police force for Girdwood since 2016, funded through the GVSA budget.
 tags:
   - governance
   - infrastructure
@@ -15,6 +16,7 @@ They have done this since 2016 after Alaska State Troopers withdrew coverage due
 Policing services are funded through the [[girdwood-service-area]] budget, overseen by the [[girdwood-board-of-supervisors]] and approved by the [[anchorage-assembly]].
 
 TODO:
+
 - actual historical budget
 - what fraction of the GVSA budget this is
 - what mill rate this represents to taxpayers

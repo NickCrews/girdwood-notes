@@ -1,5 +1,6 @@
 ---
 title: Property Managers
+oneliner: Operators who manage STRs and LTRs in Girdwood on behalf of property owners.
 tags:
   - economy
   - housing

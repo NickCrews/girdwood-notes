@@ -1,8 +1,16 @@
 ---
 title: Girdwood Notes
+oneliner: Human-facing landing page for the wiki; curated entry points, not a complete index.
 ---
 
 A wiki about issues facing Girdwood, Alaska — housing, land use, governance, economics, and more.
+
+> **About this page.** This is the homepage that the human reader lands on when browsing the published site. It is a hand-curated set of entry points, **not** a complete index of every wiki page, and it does not reference the raw sources at all. An LLM agent searching the wiki should prefer the machine-readable indexes:
+>
+> - `src/index-wiki.md` — every wiki page with title, path, oneliner, tags, word count, last edited.
+> - `src/index-sources.md` — every raw source (PDFs, scraped HTML, CSVs, etc.) with summary and metadata.
+>
+> This page may still be a useful high-level orientation for an agent, but don't trust it to be exhaustive.
 
 ## Places & Entities
 

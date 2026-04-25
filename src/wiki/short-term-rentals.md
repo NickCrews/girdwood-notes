@@ -1,5 +1,6 @@
 ---
 title: Short-Term Rentals (STRs)
+oneliner: Airbnb/VRBO listings competing with long-term housing supply in Girdwood.
 tags:
   - housing
   - economy
@@ -27,6 +28,7 @@ STRs are subject to the [[bed-tax]], which generates revenue for local services.
 Who and why decides to STR vs LTR
 
 TODO:
+
 - expected monthly earnings of both
 - changes over time
 - ability to use as guest space for visitors

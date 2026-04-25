@@ -1,5 +1,6 @@
 ---
 title: Long Term Rentals
+oneliner: Tight long-term rental market in Girdwood and a major constraint on the local economy.
 tags:
   - housing
   - economy
@@ -12,6 +13,7 @@ The long-term rental market in [[girdwood]] is extremely tight, with limited uni
 ## Metrics
 
 TODO
+
 - median price
 - number of units
 - fraction of housing units that are rented vs owner-resided.

@@ -1,5 +1,6 @@
 ---
 title: Anchorage Assembly
+oneliner: 12-member legislative body of the Municipality of Anchorage; Girdwood is part of district 6.
 tags:
   - governance
 ---

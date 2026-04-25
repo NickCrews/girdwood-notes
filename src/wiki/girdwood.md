@@ -1,5 +1,6 @@
 ---
 title: Girdwood
+oneliner: Unincorporated community within the Municipality of Anchorage, ~40 miles south on Turnagain Arm; home of Alyeska Resort.
 tags:
   - governance
   - land-use

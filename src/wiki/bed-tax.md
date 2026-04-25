@@ -1,5 +1,6 @@
 ---
 title: Bed Tax
+oneliner: 12% Anchorage room tax on short-term lodging including hotels and STRs.
 tags:
   - economy
   - governance
@@ -10,9 +11,9 @@ The anchorage bed tax (also called a room tax or transient accommodation tax) is
 
 ## Who it taxes
 
- It applies to hotel rooms, [[short-term-rentals]], and other accommodations rented for periods typically less than 30 days.
+It applies to hotel rooms, [[short-term-rentals]], and other accommodations rented for periods typically less than 30 days.
 
- TODO describe how much monye anchroage raises vs girdwood.
+TODO describe how much monye anchroage raises vs girdwood.
 
 ## What it funds
 

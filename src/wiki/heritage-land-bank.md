@@ -1,5 +1,6 @@
 ---
 title: Heritage Land Bank (HLB)
+oneliner: Anchorage's municipal real property agency and the largest landowner in Girdwood.
 tags:
   - governance
   - land-use
@@ -16,12 +17,14 @@ The Girdwood holdings make up TODO % of all of HLB's holdings.
 HLB manages and disposes of municipally-owned land, evaluates parcels for development potential, and facilitates land sales, leases, and transfers in support of community planning objectives ([Municipality of Anchorage — HLB](https://www.muni.org/Departments/prior-prior-prior-hlb/Pages/default.aspx)).
 
 TODO:
+
 - what is their charter/constitution
 
 ## Governance
 
 HLB is overseen by the Heritage Land Bank Advisory Commission, which makes recommendations to the [[anchorage-assembly]]. The [[girdwood-board-of-supervisors]] also weighs in on HLB decisions affecting the Girdwood Valley.
 TODO
+
 - cite this more
 - make sure this is correct
 - add details on who is on HLBAC, who they are responsible to
@@ -38,7 +41,6 @@ TODO link to article
 ### Ruane Road
 
 ### Hotel-area
-
 
 ## See also
 

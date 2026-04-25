@@ -1,5 +1,6 @@
 ---
 title: Municipality of Anchorage
+oneliner: Unified home-rule municipality (~291k residents) that absorbed Girdwood in 1975.
 tags:
   - governance
 ---
