@@ -12,9 +12,9 @@ tags:
 
 ## Major employers
 
-### [[alyeska-resort]]** / **[[Pomeroy]]\*\*
+### [[alyeska-resort]] / [[pomeroy]]
 
-The largest employer, operating the ski area, hotel, and associated facilities
+The largest employer, operating the ski area, hotel, and associated facilities.
 TODO:
 
 - how many people?
@@ -23,7 +23,7 @@ TODO:
 
 ### Local businesses
 
-Restaurants, retail, guiding and recreation companies, [property management](property-managers) firms.
+Restaurants, retail, guiding and recreation companies, and [[property-managers]] firms.
 
 ## Housing-economy connection
 

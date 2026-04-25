@@ -12,7 +12,7 @@ Girdwood is an unincorporated community within the [[municipality-of-anchorage]]
 
 ## Governance
 
-Girdwood was incorporated as a city in 1961. In 1975, it was absorbed into the [[municipality-of-anchorage]] when the Greater Anchorage Area Borough unified with Anchorage and the borough's smaller cities.
+Girdwood was incorporated as a city in 1961. In 1975, it was absorbed into the [[municipality-of-anchorage]] when the Greater Anchorage Area Borough unified with Anchorage and the borough's smaller cities ([Wikipedia — Girdwood](https://en.wikipedia.org/wiki/Girdwood,_Anchorage,_Alaska)).
 
 Girdwood is governed as part of the [[municipality-of-anchorage]] but has local representation through the [[girdwood-board-of-supervisors]] (GBOS), with local services provided via the [[girdwood-service-area]] (GVSA). The community is represented on the [[anchorage-assembly]] as part of district 6 that also includes South Anchorage.
 

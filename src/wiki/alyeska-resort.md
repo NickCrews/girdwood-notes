@@ -8,7 +8,7 @@ tags:
 
 ## Overview
 
-Alyeska Resort is the primary economic engine of [[girdwood]], owned and operated by [[pomeroy]]. The centerpiece is the 304-room Hotel Alyeska, which opened in 1994.
+Alyeska Resort is the primary economic engine of [[girdwood]], owned and operated by [[pomeroy]]. The centerpiece is the 304-room Hotel Alyeska, which opened in 1994 ([Wikipedia — Alyeska Resort](https://en.wikipedia.org/wiki/Alyeska_Resort)).
 
 ## Economic role
 
