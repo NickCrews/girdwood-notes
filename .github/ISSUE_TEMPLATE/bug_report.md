@@ -1,40 +1,23 @@
 ---
-name: Bug report
-about: Something about Quartz isn't working the way you expect
+name: Correction or bug report
+about: Something in the wiki is wrong, broken, or out of date
 title: ""
 labels: bug
 assignees: ""
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**What's wrong**
+Which page or claim is incorrect, broken, or out of date? Link to the page
+on the published site or to the file under `src/wiki/`.
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**What it should say**
+A clear and concise description of the correct information, or what the
+expected behavior is if this is a site/build issue.
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots and Source**
-If applicable, add screenshots to help explain your problem.
-
-You can help speed up fixing the problem by either
-
-1. providing a simple reproduction
-2. linking to your Quartz repository where the problem can be observed
-
-**Desktop (please complete the following information):**
-
-- Quartz Version: [e.g. v4.1.2]
-- `node` Version: [e.g. v18.16]
-- `npm` version: [e.g. v10.1.0]
-- OS: [e.g. iOS]
-- Browser [e.g. chrome, safari]
+**Source**
+If you're correcting a factual claim, link to or attach a source that
+backs up the correction. Primary sources (ordinances, meeting minutes,
+official documents) are preferred over secondary reporting.
 
 **Additional context**
-Add any other context about the problem here.
+Anything else worth knowing.

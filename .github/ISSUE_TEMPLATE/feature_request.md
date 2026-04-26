@@ -1,19 +1,23 @@
 ---
-name: Feature request
-about: Suggest an idea or improvement for Quartz
+name: Topic or source suggestion
+about: Suggest a topic to research or a source to add
 title: ""
 labels: enhancement
 assignees: ""
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Topic or question**
+What Girdwood-related topic, issue, or question would you like to see
+covered (housing, STRs, land use, MOA relationship, etc.)?
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Source(s)**
+Link to any documents, articles, ordinances, meeting minutes, or other
+material that should be used as the starting point. Primary sources are
+preferred.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Why it matters**
+A short note on why this is worth writing up — what decision, debate, or
+gap in public understanding does it speak to?
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+Anything else worth knowing.
