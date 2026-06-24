@@ -1,4 +1,3 @@
-
 ---
 title: Anchorage Municipal Funds
 oneliner: A field guide to the 6 digit numbering system used for funds.
@@ -75,3 +74,7 @@ If you are looking at a real-world municipal expense or bill, ask yourself **who
 
 `106000`, the GVSA fund
 ``
+
+## See also
+
+The service-area funds above are financed largely by [property tax](property-tax.md);

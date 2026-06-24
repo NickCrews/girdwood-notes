@@ -25,7 +25,7 @@ _(none yet)_
 
 ## Government records & ordinances
 
-_(none yet — example shape: `[Anchorage AO 2024-XX](./ao-2024-xx.pdf) — STR registration ordinance — meta: url=https://example.org/ao.pdf, access_date=2026-04-25, publish_date=2024-09-12, pages=14`)_
+- [Anchorage property tax exemptions](./sources/anchorage-property-tax-exemptions.md) — Property Appraisal Division list of exemptions (senior, disabled veteran, residential, nonprofit, farm, disaster, business) with amounts and the March 15 deadline. Cited from [[property-tax-exemptions]]. — meta: url=https://www.muni.org/Departments/finance/property_appraisal/Exemption/pages/default.aspx, access_date=2026-06-23
 
 ## Data
 
