@@ -23,6 +23,8 @@ The [[municipality-of-anchorage]] and [[anchorage-assembly]] have debated variou
 
 STRs are subject to the [[bed-tax]], which generates revenue for local services. This creates a tension: STRs contribute tax revenue but also remove housing from the market.
 
+None of that revenue is dedicated to Girdwood. The [[girdwood-board-of-supervisors]] tried to change that in 2025 by conditionally backing a 5% STR-only tax if Girdwood-raised revenue funded Girdwood housing; the ordinance failed 8-4 in December 2025. The partial substitute is [[tourism-improvement-projects]], which can fund visitor-facing projects but not housing. See [[bed-tax]] for the full argument.
+
 ## Vs [[long-term-rentals]]
 
 Who and why decides to STR vs LTR
