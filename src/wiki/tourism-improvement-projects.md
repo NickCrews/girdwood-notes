@@ -12,9 +12,7 @@ tags:
 
 **Tourism Improvement Projects (TIPs)** is a share of the [[bed-tax]] that the [[municipality-of-anchorage]] withholds from Visit Anchorage and spends on visitor-facing projects chosen annually by the [[anchorage-assembly]].
 
-It is new. The first pool was appropriated in March 2026. It matters to Girdwood because it is currently the **only live mechanism** by which lodging tax generated in Girdwood could come back to Girdwood as Girdwood money — and because [[girdwood-board-of-supervisors]] is actively assembling a 2027 ask.
-
-It is also small and constrained: $1.5M municipality-wide in 2027, discretionary, must be re-won every year, and legally restricted to projects that "promote tourism."
+It is new — the first pool was appropriated in March 2026 — and [[girdwood-board-of-supervisors]] is assembling a 2027 ask. The pool is $1.5M municipality-wide in 2027, discretionary, appropriated annually, and legally restricted to projects that "promote tourism."
 
 ## How it was created
 
@@ -24,7 +22,7 @@ On **December 16, 2025** the Assembly approved **AM 955-2025**, authorizing a ne
 
 In plain terms: a slice of what used to flow automatically to Visit Anchorage marketing is now a discretionary pot that departments and communities compete for.
 
-The dedication is why the money could not simply be swept into the general fund, and why the eligible-use rules below look the way they do. It also explains the program's political shape — this is a reallocation _within_ tourism promotion, not a new tax.
+Because of the 1979 dedication, the money cannot be swept into the general fund; this is a reallocation _within_ tourism promotion, not a new tax.
 
 ## How big the pot is
 
@@ -37,7 +35,7 @@ The dedication is why the money could not simply be swept into the general fund,
 
 ([AM 161-2026, attached to AR 2026-55](../sources/ar-2026-55-tourism-improvement-projects.pdf).)
 
-The structural change is at 2028: the program stops being a negotiated dollar figure and becomes a **standing ~10% skim** off Visit Anchorage's share ([ADN, 2026-04-17](../sources/adn-2026-04-16-room-tax-tips-downtown-patrols.md)). From that point the pot grows and shrinks with tourism receipts rather than with the Assembly's appetite, which makes it a more durable thing to build a claim on.
+Starting in 2028 the program stops being a negotiated dollar figure and becomes a **standing ~10% share** of Net Tourism Receipts, so the pot scales with tourism receipts ([ADN, 2026-04-17](../sources/adn-2026-04-16-room-tax-tips-downtown-patrols.md)).
 
 ## Where the 2026 money went
 
@@ -67,7 +65,7 @@ with the limit that TIPs "are not intended to shift responsibilities historicall
 
 This language is the constraint any Girdwood proposal has to be written against. GBOS was explicitly told to "review AR 2026-55 to make sure proposed projects fit within the definition required" ([GBOS minutes, 2026-05-18](../sources/gbos-2026-05-18-minutes.pdf)).
 
-Note what is **not** on the list: housing. See [the mismatch](#the-housing-mismatch) below.
+Housing is not on the list — see [below](#housing-is-not-an-eligible-use).
 
 ## Girdwood's play for 2027
 
@@ -77,21 +75,9 @@ The process, as described at the MOA/GBOS quarterly meeting: **GBOS passes a res
 - **2026-06-15** — TIPs referred for working discussion at PSAC and GHEC; GBOS asks that TIPs and police IT funding be agenda items at the July quarterly meeting with the MOA ([minutes](../sources/gbos-2026-06-15-minutes.pdf)).
 - **2026-07-27** — TIPs is agenda item 5 at the MOA/GBOS quarterly meeting, framed as "bed tax revenue to offset negative visitor impact."
 
-### Assessment
+### Housing is not an eligible use
 
-Two observations on the current ask.
-
-**Both candidate projects are studies.** A study is a defensible fit with "destination development," but a weak fit with the concrete categories the memorandum actually enumerates (visitor-facing infrastructure, events, visitor transportation, trails). It is also a **one-time ask that builds no recurring claim** — next year Girdwood starts from zero again.
-
-**The enumerated categories contain obvious durable Girdwood fits.** Visitor transportation, trails work, wayfinding, and festival support are all things Girdwood does at scale for visitors, and all are things with recurring operating cost. Against a pot that becomes a standing 10% skim in 2028, a recurring operating need compounds in a way a study does not.
-
-### The housing mismatch
-
-Girdwood's grievance about the bed tax is fundamentally about **housing** — that the visitor industry generates lodging tax while displacing the workforce housing that serves it (see [[bed-tax]] and [[short-term-rentals]]).
-
-TIPs money legally cannot be spent on housing. The 1979 dedication permits tourism promotion only. That is precisely why the 2027 ask is a housing _study_ rather than housing: a study is the closest a housing objective can get to the eligible-use list.
-
-This is worth being clear-eyed about. TIPs is a real and probably growing revenue path for Girdwood, but it is a path for **visitor-facing** projects. It is not a solution to the problem GBOS is actually arguing about, and treating it as one risks spending the community's one annual ask on a weak fit.
+TIPs money cannot be spent on housing itself: the 1979 dedication permits tourism promotion only, and housing does not appear in the memorandum's eligible-use categories ([AM 161-2026](../sources/ar-2026-55-tourism-improvement-projects.pdf)). The bed-tax/housing debate is covered at [[bed-tax]] and [[short-term-rentals]].
 
 ## TODO
 
@@ -108,4 +94,5 @@ This is worth being clear-eyed about. TIPs is a real and probably growing revenu
 - [[anchorage-assembly]]
 - [[muni-funds]]
 - [[girdwood-economics-and-labor-market]]
+- [[glacier-valley-transit]]
 - [[alyeska-resort]]

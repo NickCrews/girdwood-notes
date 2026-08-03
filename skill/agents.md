@@ -56,6 +56,14 @@ Two flat, machine-readable indexes are the primary search targets for an agent w
   - PDFs, CSVs, and other binary sources always live in `src/sources/`; cite them by relative link.
   - Do NOT use a separate "Sources" section — weave citations into the text where the claim appears.
 - **No unsupported claims**: If you don't have a source, don't state it as fact.
+- **Facts, not opinions.** The wiki records what sources say; the human makes the arguments elsewhere. Do NOT write:
+  - Speculation or prediction stated as fact ("a single award could change its financial structure", "probably growing").
+  - Strategy advice or advocacy ("the ask that presents itself is…", "a weak fit", "risks spending the community's one annual ask").
+  - "Assessment"-style sections weighing options or scoring proposals.
+  - Rhetorical framing and emphasis ("a rounding error", "worth being clear-eyed about", "the core of the political case").
+  - Adjudication between conflicting sources ("the likelier reading is…"). Present both accounts neutrally, note that they conflict, and add a TODO to resolve it.
+
+  An opinion may appear only when it belongs to a source — attributed and cited like any other claim ("Johnson raised X as a possible ask"). Derived arithmetic on cited figures (percentages, ratios) is fine; conclusions drawn from that arithmetic are not.
 - Sections per page (adapt as needed): **Overview**, **Details**, **See also** (related `[[wikilinks]]`).
 
 ## Source conventions (`src/sources/`)
